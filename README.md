@@ -15,12 +15,11 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 
 The R script "cleaningfinalscript3.R" contains the code that performs these tasks. 
 
-It produced three tables:
+It produces three tables:
 
 alldata - a table containing all accelerometer data
 
-subdata - a subset of alldata containing the mean and standard deviation of the variables collected.
-
+subdata - a subset of alldata containing the mean and standard deviation variables.
 
 avdata - a table of the averages of the variables found in subdata grouped by 
      individual and activity.
